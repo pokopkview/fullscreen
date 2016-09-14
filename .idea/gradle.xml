@@ -8,17 +8,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AppADSDK" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/normaldemo" />
             <option value="$PROJECT_DIR$/retorfitokhttp" />
+            <option value="$PROJECT_DIR$/sdkdemos" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AppADSDK" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/normaldemo" />
             <option value="$PROJECT_DIR$/retorfitokhttp" />
+            <option value="$PROJECT_DIR$/sdkdemos" />
           </set>
         </option>
       </GradleProjectSettings>

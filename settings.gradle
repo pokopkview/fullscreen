@@ -1,1 +1,1 @@
-include ':app', ':retorfitokhttp', ':myapplication'
+include ':app', ':retorfitokhttp', ':AppADSDK', ':sdkdemos', ':normaldemo'

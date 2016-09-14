@@ -1,9 +1,0 @@
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\Ball$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$layout$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$drawable$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$string$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$menu$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$id$override.class
-CHANGED,C:\Users\UPC\fullscreen\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tim\shadow\ball\R$style$override.class
