@@ -1,7 +1,7 @@
 package ad.joyplus.com.sdkdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 
 import ad.joyplus.com.myapplication.managers.AdManager;
